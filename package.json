@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^0.10.3",
     "@types/mapbox-gl": "^3.4.1",
     "leaflet": "^1.9.4",
     "mapbox-gl": "^3.8.0",
